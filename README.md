@@ -20,7 +20,7 @@
 <a href="https://twitter.com/canduru004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="canduru004" height="30" width="40" /></a>
 <a href="https://instagram.com/canduru4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="canduru4" height="30" width="40" /></a>
 <a href="https://fb.com/canduru04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="canduru04" height="30" width="40" /></a>
-<a href="/https://rss.app/feeds/br3mhgz8fqyvlkcs.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.app/feeds/br3mhgz8fqyvlkcs.xml" height="30" width="40" /></a>
+<a href="https://rss.app/feeds/br3mhgz8fqyvlkcs.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.app/feeds/br3mhgz8fqyvlkcs.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
