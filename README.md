@@ -1,15 +1,23 @@
-<h1 align="center">Hi, I am Can Duru! 🙋🏻‍♂️</h1>
-<h3 align="center">Author, Developer, and Entrepreneur</h3>
+<h1 align="center">Hi, I am Can Duru 🙋🏻‍♂️</h1>
+<h3 align="center">An Author, Developer, and Entrepreneur</h3>
 
-- 👨🏻‍💻 I am currently developing projects **for the iOS platform, using Swift language.**
+- 👨🏻‍💻 I am currently developing projects for **the iOS platform, using Swift language.**
 
-- 📚 I am learning **SwiftUI language and will start to develop using SwiftUI.**
+- 🧐 I am currently learning **SwiftUI, Arduino, and Machine Learning.**
 
-- 📝 I regularly write articles on [gelecekburada.net](gelecekburada.net)
+- 💼 My most recent project is **[Robert Compass iOS Application](https://github.com/CanDuru4/RobertCompass)**
 
-- 📞 You can reach me via my email address or from my website **support@canduru.net, [canduru.net](canduru.net)**
+- 📚 My book is available at [https://www.kitapyurdu.com/kitap/gelecegin-habercisi/644115.html](https://www.kitapyurdu.com/kitap/gelecegin-habercisi/644115.html)
+
+- 📝 I regularly write articles on [gelecekburada.net/author/canduru](gelecekburada.net/author/canduru)
+
+- 💬 Ask me about **swift, firebase, iOS, website development.**
+
+- 📞 How to reach me **support@canduru.net, [canduru.net](canduru.net)**
 
 - 📄 Know about my experiences [canduru.net](canduru.net)
+
+- 🐶 Fun fact **I have two German Shepherd dogs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
