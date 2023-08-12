@@ -45,6 +45,10 @@
  
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Yapay Zekâ’nın TalkShow’u: Watchmeforever](https://www.gelecekburada.net/yapay-zekanin-talkshowu-watchmeforever/)
+- [3B Baskı Mikroskobik Canlıların Hareketi](https://www.gelecekburada.net/3b-baski-mikroskobik-canlilarin-hareketi/)
+- [ChatGPT ile Piyasaya Girmek: Robot Süpürge](https://www.gelecekburada.net/chatgpt-ile-piyasaya-girmek-robot-supurge/)
+- [ChatGPT ve Eğitim Sektöründeki Etkileri](https://www.gelecekburada.net/chatgpt-ve-egitim-sektorundeki-etkileri/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Stats
