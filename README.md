@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [gelecekburada.net/author/canduru](gelecekburada.net/author/canduru)
 
-- 💬 Ask me about **swift, firebase, iOS, website development.**
+- 💬 Ask me about **Swift, Firebase, iOS, and website development.**
 
 - 📞 How to reach me **support@canduru.net, [canduru.net](canduru.net)**
 
