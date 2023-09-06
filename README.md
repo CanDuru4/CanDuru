@@ -7,9 +7,9 @@
 
 - 💼 My most recent project is **[Robert Compass iOS Application](https://github.com/CanDuru4/RobertCompass)**
 
-- 📚 My book is available at [https://www.kitapyurdu.com/kitap/gelecegin-habercisi/644115.html](https://www.kitapyurdu.com/kitap/gelecegin-habercisi/644115.html)
+- 📚 My book is available at [Kitapyurdu](https://www.kitapyurdu.com/kitap/gelecegin-habercisi/644115.html)
 
-- 📝 I regularly write articles on [gelecekburada.net/author/canduru](gelecekburada.net/author/canduru)
+- 📝 I regularly write articles on [Gelecek Burada](gelecekburada.net/author/canduru)
 
 - 💬 Ask me about **Swift, Firebase, iOS, and website development.**
 
