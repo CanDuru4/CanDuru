@@ -45,11 +45,11 @@
  
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [3D Baskım Neden Kalitesiz Oluyor?](https://www.gelecekburada.net/3d-baskim-neden-kalitesiz-oluyor/)
+- [AI Sağlık Köpeği Hayatınızı Kurtarabilir!](https://www.gelecekburada.net/ai-saglik-kopegi-hayatinizi-kurtarabilir/)
+- [Crytpovoxels: Minecraft’ın Kripto ile Tanışması](https://www.gelecekburada.net/crytpovoxels-minecraftin-kripto-ile-tanismasi/)
+- [3B Baskı Protez Eller Çok Yakında](https://www.gelecekburada.net/3b-baski-protez-eller-cok-yakinda/)
 - [Yapay Zekâ’nın TalkShow’u: Watchmeforever](https://www.gelecekburada.net/yapay-zekanin-talkshowu-watchmeforever/)
-- [3B Baskı Mikroskobik Canlıların Hareketi](https://www.gelecekburada.net/3b-baski-mikroskobik-canlilarin-hareketi/)
-- [ChatGPT ile Piyasaya Girmek: Robot Süpürge](https://www.gelecekburada.net/chatgpt-ile-piyasaya-girmek-robot-supurge/)
-- [ChatGPT ve Eğitim Sektöründeki Etkileri](https://www.gelecekburada.net/chatgpt-ve-egitim-sektorundeki-etkileri/)
-- [Ses Dalgası ile 3B Baskı Oluşturmak](https://www.gelecekburada.net/ses-dalgasi-ile-3d-baski-olusturmak/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Stats
