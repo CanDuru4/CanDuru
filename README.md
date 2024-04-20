@@ -44,13 +44,11 @@
 </p>
  
 ### Blog Posts
-<!-- BLOG-POST-LIST:START -->
 - [3D Baskım Neden Kalitesiz Oluyor?](https://www.gelecekburada.net/3d-baskim-neden-kalitesiz-oluyor/)
 - [AI Sağlık Köpeği Hayatınızı Kurtarabilir!](https://www.gelecekburada.net/ai-saglik-kopegi-hayatinizi-kurtarabilir/)
 - [Crytpovoxels: Minecraft’ın Kripto ile Tanışması](https://www.gelecekburada.net/crytpovoxels-minecraftin-kripto-ile-tanismasi/)
 - [3B Baskı Protez Eller Çok Yakında](https://www.gelecekburada.net/3b-baski-protez-eller-cok-yakinda/)
 - [Yapay Zekâ’nın TalkShow’u: Watchmeforever](https://www.gelecekburada.net/yapay-zekanin-talkshowu-watchmeforever/)
-<!-- BLOG-POST-LIST:END -->
 
 ### GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canduru4&show_icons=true&locale=en" alt="canduru4" /></p>
